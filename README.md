@@ -17,14 +17,14 @@ Text Editor: Micro Text Editor<br>
 0W to 1150W[SAFE]:![image](https://user-images.githubusercontent.com/83464781/208340605-9ddd2895-0559-438a-90b9-c663f7df5fb9.png)<br><br>
 1150W to 1650W[WARNING]:![image](https://user-images.githubusercontent.com/83464781/208340715-0a505925-ebc4-4b62-915b-40782ef8bc60.png)<br><br>
 Bigger than 1650W[DANGEROUS]:<br>![image](https://user-images.githubusercontent.com/83464781/208340786-227d842c-234c-4277-b571-561842e2506c.png)<br>
-(If Circuit Breaker operates, then we need to reset all components to prevent circuits from being destoryed)<br><br>
+### (If Circuit Breaker operates, then we need to reset all components to prevent circuits from being destoryed)<br><br>
 ## Others:
-Test Setup Parameter:<br>
+### Test Setup Parameter:<br>
 ![setup](https://user-images.githubusercontent.com/83464781/208341024-d5759873-a600-49a0-bf10-0e3692c3e48d.png)<br><br>
-Pspice Simulation result:<br>
-Good:<br>
+### Pspice Simulation result:<br>
+#### Good:<br>
 ![good](https://user-images.githubusercontent.com/83464781/208341044-b4f12296-ebbe-4817-b77e-4a1046986467.png)<br><br>
-Warning:<br>
+#### Warning:<br>
 ![warning](https://user-images.githubusercontent.com/83464781/208341068-b0e319c0-55d5-49d1-aa61-614ec9cf21b2.png)<br><br>
-Dangerous:<br>
+#### Dangerous:<br>
 ![dangerous](https://user-images.githubusercontent.com/83464781/208341090-159dc808-ae8e-4120-95e9-d3b33687f5c9.png)<br><br>
