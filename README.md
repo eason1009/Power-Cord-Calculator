@@ -1,8 +1,8 @@
 # Power-Cord-Calculator
 ## About
-#### Environment: Ubuntu 22.04.1 LTS(64bit)<br>
-#### Language: Python 3.10.6<br>
-#### Text Editor: Micro Text Editor<br>
+##### Environment: Ubuntu 22.04.1 LTS(64bit)<br>
+##### Language: Python 3.10.6<br>
+##### Text Editor: Micro Text Editor<br>
 
 ## Analyze Circuit 
 ![circuit](https://user-images.githubusercontent.com/83464781/208340038-2718c412-7313-4adb-b188-3c3d9ebeda33.png)<br><br>
